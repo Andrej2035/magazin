@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/magazin/static/css/main.f383bb0f.chunk.css",
-    "main.js": "/magazin/static/js/main.9728260d.chunk.js",
-    "main.js.map": "/magazin/static/js/main.9728260d.chunk.js.map",
+    "main.js": "/magazin/static/js/main.62636552.chunk.js",
+    "main.js.map": "/magazin/static/js/main.62636552.chunk.js.map",
     "runtime~main.js": "/magazin/static/js/runtime~main.d319fcc9.js",
     "runtime~main.js.map": "/magazin/static/js/runtime~main.d319fcc9.js.map",
     "static/js/2.b4970268.chunk.js": "/magazin/static/js/2.b4970268.chunk.js",
@@ -31,7 +31,7 @@
     "static/js/10.a8205b1a.chunk.js": "/magazin/static/js/10.a8205b1a.chunk.js",
     "static/js/10.a8205b1a.chunk.js.map": "/magazin/static/js/10.a8205b1a.chunk.js.map",
     "index.html": "/magazin/index.html",
-    "precache-manifest.01c454b463e4e0944237167dac5cc881.js": "/magazin/precache-manifest.01c454b463e4e0944237167dac5cc881.js",
+    "precache-manifest.950d1b7d1c999089bd3ff486f8807792.js": "/magazin/precache-manifest.950d1b7d1c999089bd3ff486f8807792.js",
     "service-worker.js": "/magazin/service-worker.js",
     "static/css/10.864625eb.chunk.css.map": "/magazin/static/css/10.864625eb.chunk.css.map",
     "static/css/4.bf87b20c.chunk.css.map": "/magazin/static/css/4.bf87b20c.chunk.css.map",

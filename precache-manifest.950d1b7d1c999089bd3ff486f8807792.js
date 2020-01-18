@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8048d5bfe20f4214276eb1dd31dbe3c0",
+    "revision": "61a23e06d4f257dbb715af7aad3045a1",
     "url": "/magazin/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/static/css/9.7ca79506.chunk.css"
   },
   {
-    "revision": "708c6a96420c84ce308e",
+    "revision": "d3f353ab125d27230433",
     "url": "/magazin/static/css/main.f383bb0f.chunk.css"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/static/js/9.3a362a2b.chunk.js"
   },
   {
-    "revision": "708c6a96420c84ce308e",
-    "url": "/magazin/static/js/main.9728260d.chunk.js"
+    "revision": "d3f353ab125d27230433",
+    "url": "/magazin/static/js/main.62636552.chunk.js"
   },
   {
     "revision": "7b95428283fe63b9f80d",
