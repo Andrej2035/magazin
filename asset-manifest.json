@@ -1,25 +1,15 @@
 {
   "files": {
-    "main.css": "/magazin/static/css/main.2105ef5f.chunk.css",
-    "main.js": "/magazin/static/js/main.01717e33.chunk.js",
-    "main.js.map": "/magazin/static/js/main.01717e33.chunk.js.map",
-    "runtime~main.js": "/magazin/static/js/runtime~main.e109a6cd.js",
-    "runtime~main.js.map": "/magazin/static/js/runtime~main.e109a6cd.js.map",
-    "static/js/2.0b07caef.chunk.js": "/magazin/static/js/2.0b07caef.chunk.js",
-    "static/js/2.0b07caef.chunk.js.map": "/magazin/static/js/2.0b07caef.chunk.js.map",
-    "static/css/3.c4aad984.chunk.css": "/magazin/static/css/3.c4aad984.chunk.css",
-    "static/js/3.2806b1bd.chunk.js": "/magazin/static/js/3.2806b1bd.chunk.js",
-    "static/js/3.2806b1bd.chunk.js.map": "/magazin/static/js/3.2806b1bd.chunk.js.map",
-    "static/css/4.1a470642.chunk.css": "/magazin/static/css/4.1a470642.chunk.css",
-    "static/js/4.5a8445e3.chunk.js": "/magazin/static/js/4.5a8445e3.chunk.js",
-    "static/js/4.5a8445e3.chunk.js.map": "/magazin/static/js/4.5a8445e3.chunk.js.map",
+    "main.css": "/magazin/static/css/main.c23f5692.chunk.css",
+    "main.js": "/magazin/static/js/main.b2afa813.chunk.js",
+    "main.js.map": "/magazin/static/js/main.b2afa813.chunk.js.map",
+    "runtime~main.js": "/magazin/static/js/runtime~main.3d4398bf.js",
+    "runtime~main.js.map": "/magazin/static/js/runtime~main.3d4398bf.js.map",
+    "static/js/2.19f318d3.chunk.js": "/magazin/static/js/2.19f318d3.chunk.js",
+    "static/js/2.19f318d3.chunk.js.map": "/magazin/static/js/2.19f318d3.chunk.js.map",
     "index.html": "/magazin/index.html",
-    "precache-manifest.87c97658f16e0b5318f013fd69a23f8c.js": "/magazin/precache-manifest.87c97658f16e0b5318f013fd69a23f8c.js",
+    "precache-manifest.8bf2b5bbf47581e5279ee7a778088048.js": "/magazin/precache-manifest.8bf2b5bbf47581e5279ee7a778088048.js",
     "service-worker.js": "/magazin/service-worker.js",
-    "static/css/3.c4aad984.chunk.css.map": "/magazin/static/css/3.c4aad984.chunk.css.map",
-    "static/css/4.1a470642.chunk.css.map": "/magazin/static/css/4.1a470642.chunk.css.map",
-    "static/css/main.2105ef5f.chunk.css.map": "/magazin/static/css/main.2105ef5f.chunk.css.map",
-    "static/media/preloader.svg": "/magazin/static/media/preloader.6e7c9db7.svg",
-    "static/media/user.png": "/magazin/static/media/user.8b1dbb1f.png"
+    "static/css/main.c23f5692.chunk.css.map": "/magazin/static/css/main.c23f5692.chunk.css.map"
   }
 }
